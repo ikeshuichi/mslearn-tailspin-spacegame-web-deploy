@@ -1,5 +1,4 @@
 ### YamlMime:Yaml
-
 trigger:
 - '*'
 variables:
